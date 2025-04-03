@@ -10,9 +10,6 @@ This repository contains various assignments, projects, and materials from a Yan
 - **nlp_2.0**  
   Projects focused on Natural Language Processing, such as text classification and tokenization.
 
-- **.gitattributes / .gitignore**  
-  Configuration files for Git, specifying how files are tracked or ignored in this repository.
-
 ## **Highlights**
 
 - **Hackathons**  
